@@ -12,7 +12,7 @@ In this project I make both mobile and desktop version of nutrition site that ed
 
 https://www.loom.com/share/636703adac194e40b36fd502e467bf2d
 
-https://anwaar12.github.io/Capston1/
+https://anwaar12.github.io/Nutrition-capston/
 
 ## Built With
 
