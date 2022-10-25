@@ -1,4 +1,4 @@
-const sports = document.querySelector(".sports");
+const sports = document.querySelector(''.sports/);
 const main1 = document.querySelector(".main1");
 const row = document.createElement("div");
 row.className = "row";
