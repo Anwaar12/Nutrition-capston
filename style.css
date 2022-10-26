@@ -138,10 +138,6 @@ footer p {
   color: #272a31;
 }
 
-.navItem .active {
-  width: 100%;
-}
-
 .mainProgram {
   text-align: center;
   background-image: url("./images/mainProgram-bg.jpg");
